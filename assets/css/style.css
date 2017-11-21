@@ -92,7 +92,7 @@ h6 {
 
 #headerwrap {
     background: url(../img/back.jpg) no-repeat center top;
-    margin-top: -70px;
+    margin-top: -10px;
     padding-top: 250px;
     text-align: center;
     background-attachment: relative;
@@ -112,11 +112,11 @@ h6 {
 }
 
 #headerwrap h1 {
-    color: #ffffff;
+    color: #ff0008;
     padding-top: 10px;
     padding-bottom: 20px;
     letter-spacing: 4px;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: bold;
 }
 
@@ -188,8 +188,8 @@ h6 {
 
 #aboutwrap {
     background: url(../img/about.jpg) no-repeat center top;
-    margin-top: -70px;
-    padding-top: 250px;
+    margin-top: -10px;
+    padding-top: -10px;
     text-align: center;
     background-attachment: relative;
     background-position: center center;
